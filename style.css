@@ -1,0 +1,16 @@
+*{
+    margin: 0; padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+.address_book_div{
+    margin-top: 30px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgray;
+}
+.adr_h2{
+    text-align: center;
+}
